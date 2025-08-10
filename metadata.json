@@ -1,0 +1,6 @@
+{
+  "name": "Sancta Missa Digital Missal",
+  "description": "An interactive digital missal for the Traditional Latin Mass (1960 Rubrics). It provides daily Propers and the full Ordinary of the Mass with side-by-side Latin-English translations, powered by the Gemini API to generate liturgically accurate data for any given day.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
